@@ -1,5 +1,1535 @@
 [
   {
+    "title": "I'm so happy(Happy Hoppin Remix)",
+    "artist": "polysha",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "ブルーコールドハリケーンズ"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "ブルーコールドハリケーンズ"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "ブルーコールドハリケーンズ"
+      }
+    ]
+  },
+  {
+    "title": "ARISE",
+    "artist": "Juggernaut.",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "鋼のビスカッチャ"
+      }
+    ]
+  },
+  {
+    "title": "Arcadia",
+    "artist": "CHRIS (Sound Libero)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "DJ WILDPARTY"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "DJ WILDPARTY"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "DJ WILDPARTY"
+      }
+    ]
+  },
+  {
+    "title": "Ars Magna",
+    "artist": "Riz",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "サイバーガスタンク"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "サイバーガスタンク"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "サイバーガスタンク"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "サイバーガスタンク"
+      }
+    ]
+  },
+  {
+    "title": "Allegro Saetta",
+    "artist": "天束 vs. siromaru",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "脈力木魚"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "脈力木魚"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "脈力木魚"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "脈力木魚"
+      }
+    ]
+  },
+  {
+    "title": "{ eXLIPXe }",
+    "artist": "{ かめりあ }",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 8,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 15,
+        "name": "ADV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 18,
+        "name": "EXH",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 20,
+        "name": "MXM",
+        "effector": "クリムゾンホットテンペスト・極"
+      }
+    ]
+  },
+  {
+    "title": "XΛLT=ØVER",
+    "artist": "Ashrount",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "XΛLMON=GRAPHY"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "XΛLMON=GRAPHY"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "XΛLMON=GRAPHY"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "XΛLMON=GRAPHY"
+      }
+    ]
+  },
+  {
+    "title": "イグジスター",
+    "artist": "東雲蛍 feat. はぁち",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "蒼鉛キューブ"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "蒼鉛キューブ"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "蒼鉛キューブ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "蒼鉛キューブ"
+      }
+    ]
+  },
+  {
+    "title": "十六夜桜-Zakura-",
+    "artist": "u-z",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "THE THIRD MAN"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "THE THIRD MAN"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "THE THIRD MAN"
+      }
+    ]
+  },
+  {
+    "title": "Inevitable Magic",
+    "artist": "Alkome",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "conceptual explorer"
+      }
+    ]
+  },
+  {
+    "title": "We Are All The Dreamer",
+    "artist": "Hommarju ft. かぼちゃ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "The Cherry Glass"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "The Cherry Glass"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "The Cherry Glass"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "The Cherry Glass"
+      }
+    ]
+  },
+  {
+    "title": "ウイジン",
+    "artist": "CHUBAY as \"NOVICE\"",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "ゆめいろパフィー"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "ゆめいろパフィー"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "ゆめいろパフィー"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ゆめいろパフィー"
+      }
+    ]
+  },
+  {
+    "title": "V!LLA!N",
+    "artist": "Kaname",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "MASTER TR!CK"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "MASTER TR!CK"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "MASTER TR!CK"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "MASTER TR!CK'S JUST!CE"
+      }
+    ]
+  },
+  {
+    "title": "Ex concordia felicitas",
+    "artist": "Connexio",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "ゆめいろパフィー"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "ゆめいろパフィー"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "ゆめいろパフィー"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ゆめいろパフィー"
+      }
+    ]
+  },
+  {
+    "title": "Entropic EnĤαncemEnt",
+    "artist": "CHUBAY",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "Royα∠ CrαckEr"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "Royα∠ CrαckEr"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "Royα∠ CrαckEr"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "Royα∠ CrαckEr"
+      }
+    ]
+  },
+  {
+    "title": "ON THE WORLD",
+    "artist": "Yuta Imai",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "異次元の孤独～カナタノキミヘ～",
+    "artist": "RoughSkreamZ feat. Sennzai",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Megacycle feat. KSK"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Megacycle feat. KSK"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Megacycle feat. KSK"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Megacycle feat. KSK"
+      }
+    ]
+  },
+  {
+    "title": "Colorful Magical Parade",
+    "artist": "Tsubusare BOZZ feat.madoka*",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Akizuki Nagomu"
+      }
+    ]
+  },
+  {
+    "title": "カラルの月 Verdammt Remix",
+    "artist": "Verdammt",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "Hermit♣club"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "Hermit♣club"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "Hermit♣club"
+      }
+    ]
+  },
+  {
+    "title": "Crawl Out Immortal",
+    "artist": "U-ske feat.Parfaitty",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "conceptual explorer"
+      }
+    ]
+  },
+  {
+    "title": "グリーディ・スターズ！",
+    "artist": "みーに feat. しろさきあや",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "フォックスロット"
+      }
+    ]
+  },
+  {
+    "title": "群青纏う朱の槍",
+    "artist": "めと（Metomate）",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "レッドホットダークスクリューズ"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "ダークレッドホットダークスクリューズ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ダークレッドダークホットダークスクリューズ"
+      }
+    ]
+  },
+  {
+    "title": "Cuz we <3 this Game",
+    "artist": "打打だいず",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "CosMo The OverDrive"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "CosMo The OverDrive"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "CosMo The OverDrive"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "CosMo The OneHand"
+      }
+    ]
+  },
+  {
+    "title": "SAD1STIC Я04D",
+    "artist": "Enterskip",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "TEK-A-RHYTHM × 月刊ミズタニ"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "TEK-A-RHYTHM × 月刊ミズタニ"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "TEK-A-RHYTHM × 月刊ミズタニ"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "TEK-A-RHYTHM × 月刊ミズタニ"
+      }
+    ]
+  },
+  {
+    "title": "SΛMVICΛ",
+    "artist": "seatrus -Reborn-",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Arcana"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Arcana"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Arcana"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Arcana"
+      }
+    ]
+  },
+  {
+    "title": "City Edge",
+    "artist": "winddrums",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "TAKUYA"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "TAKUYA"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "TAKUYA"
+      }
+    ]
+  },
+  {
+    "title": "Sweetie Beauti Magic",
+    "artist": "打打だいず feat. 凜々",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Dr. Yippee"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Dr. Yippee"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Dr. Yippee"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Dr. Yippee"
+      }
+    ]
+  },
+  {
+    "title": "StellarflightS",
+    "artist": "otoshi.b",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "dj strachen"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "dj strassen"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "dj streiten"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "dj strachen vs. strassen vs. streiten"
+      }
+    ]
+  },
+  {
+    "title": "Smooth Wind",
+    "artist": "とろまる",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "浮世マシーン"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "浮世マシーン"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "浮世マシーン"
+      }
+    ]
+  },
+  {
+    "title": "青春☆してるかい？READY&LADY!",
+    "artist": "LV.4 feat.みゆ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "しばまる子"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "しばまる子 × ごましおくん"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "ごましおくん"
+      }
+    ]
+  },
+  {
+    "title": "センチメント",
+    "artist": "uno(IOSYS)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 1,
+        "name": "NOV",
+        "effector": "DJ WILDPARTY"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "DJ WILDPARTY"
+      },
+      {
+        "level": 10,
+        "name": "EXH",
+        "effector": "DJ WILDPARTY"
+      }
+    ]
+  },
+  {
+    "title": "Xeno Gravity",
+    "artist": "xi",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "Ether99"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "Ether99"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "Ether99"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "Ether99"
+      }
+    ]
+  },
+  {
+    "title": "太陽はやめて！ぼくらのスカーレット警察",
+    "artist": "七条レタスグループ starring ココ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "\"抹茶\"巡査部長"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "\"こども\"警部"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "\"揚げ物ディスコ事件\"対策本部"
+      }
+    ]
+  },
+  {
+    "title": "Double or Nothing",
+    "artist": "Tatsunoshin",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "電撃ロブスター"
+      }
+    ]
+  },
+  {
+    "title": "CHOVERY GOOSE!!!",
+    "artist": "MYUKKE.",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "からあげキボーンヌ"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "からあげキボーンヌ"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "からあげキボーンヌ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "からあげキボーンヌ"
+      }
+    ]
+  },
+  {
+    "title": "月明りの旅人たち",
+    "artist": "coTatsu",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "Di-Da-De-Doo",
+    "artist": "Yu_Asahina ft.Mizutama",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "モンスタードミノ卿"
+      }
+    ]
+  },
+  {
+    "title": "Devotion",
+    "artist": "void (Mournfinale)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "Two of Wonder Lights",
+    "artist": "technoplanet feat. Tamako Kinoshita",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Akizuki Nagomu"
+      }
+    ]
+  },
+  {
+    "title": "TOYBOX CANNØN=͟͟͞ Σ≡=｡ﾟ:*.:+｡.☆",
+    "artist": "Mono.",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "鋼のビスカッチャ"
+      }
+    ]
+  },
+  {
+    "title": "トキノコエト",
+    "artist": "setu-O meets 駄々子",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "kamuy noko"
+      }
+    ]
+  },
+  {
+    "title": "トリコエリヌム▽コンチェルト",
+    "artist": "qfeileadh",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "TEK-A-RHYTHM"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "TEK-A-RHYTHM"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "TEK-A-RHYTHM"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "TEK-A-RHYTHM"
+      }
+    ]
+  },
+  {
+    "title": "draw!!!!",
+    "artist": "Music by PHQUASE, Vocal by ぁゅ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "月刊ミズタニ"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "月刊ミズタニ"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "月刊ミズタニ"
+      }
+    ]
+  },
+  {
+    "title": "七色のウタ",
+    "artist": "Music by 上村香月, Vocal by みゅい",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "月刊ミズタニ"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "月刊ミズタニ"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "月刊ミズタニ"
+      }
+    ]
+  },
+  {
+    "title": "Knew Order",
+    "artist": "あまみ×ひなみ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "始まりの空へ～PH～"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "始まりの空へ～PH～"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "始まりの空へ～PH～"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "始まりの空へ～PH～"
+      }
+    ]
+  },
+  {
+    "title": "NEMSYS ARENA World Hexathlon",
+    "artist": "隣の庭は青い(庭師+Aoi)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 8,
+        "name": "NOV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 15,
+        "name": "ADV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 18,
+        "name": "EXH",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 20,
+        "name": "MXM",
+        "effector": "Akizuki Nagomu as AMAZE"
+      }
+    ]
+  },
+  {
+    "title": "NO SURRENDER",
+    "artist": "493Water",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "花火のおもちゃ箱",
+    "artist": "Yu-dachi",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "kamuy noko"
+      }
+    ]
+  },
+  {
+    "title": "Virtual Sunrise (nana's Festival EDM Remix) feat. Kanae Asaba",
+    "artist": "nana(Sevencolors)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "わかば"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "わかば"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "わかば"
+      }
+    ]
+  },
+  {
+    "title": "ぱられる",
+    "artist": "Music by akira asano feat.Tia, Vocal by みゅい",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "DJ WILDPARTY"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "DJ WILDPARTY"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "DJ WILDPARTY"
+      }
+    ]
+  },
+  {
+    "title": "BEMANI PRO LEAGUE -SEASON 2- SOUND VOLTEX ULTIMATE MEDLEY",
+    "artist": "FLOOR LEGENDS -BPL S2 SDVX-",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "SOUND VOLTEX Effectors"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "SOUND VOLTEX Effectors"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "SOUND VOLTEX Effectors"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "SOUND VOLTEX Effectors"
+      }
+    ]
+  },
+  {
+    "title": "Flying!",
+    "artist": "Tracy feat.築山さえ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "Break Through Δpex",
+    "artist": "Halv feat.Kuroa*",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "ROYΔL CRΔCKER"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "ROYΔL CRΔCKER"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "ROYΔL CRΔCKER"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ROYΔL CRΔCKER"
+      }
+    ]
+  },
+  {
+    "title": "プリュネシエル",
+    "artist": "瀬名 feat. 音羽ことり。",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "モンスタードミノ卿"
+      }
+    ]
+  },
+  {
+    "title": "Pristine Bigband",
+    "artist": "Y*Quartet project",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "SCバイオメトリクス"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "SCバイオメトリクス"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "SCバイオメトリクス"
+      }
+    ]
+  },
+  {
+    "title": "MΔX FLAVØR",
+    "artist": "EmoCosine overlay",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "レッドホットスクリューズ"
+      }
+    ]
+  },
+  {
+    "title": "-約束-",
+    "artist": "ばんし",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "金色の夜叉"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "金色の夜叉"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "金色の夜叉"
+      }
+    ]
+  },
+  {
+    "title": "La Nostra Storia!",
+    "artist": "polysha w/ mikanzil",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "LOVE TONIC",
+    "artist": "影虎。",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "dj strassen"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "dj strassen"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "dj strassen"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "dj strassen"
+      }
+    ]
+  },
+  {
+    "title": "恋愛方程式",
+    "artist": "パピ子りんft.ビタミンな兄貴♂＆ゆずり",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "TAKUYA × MaKoTo"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "TAKUYA × MaKoTo"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "TAKUYA × MaKoTo"
+      }
+    ]
+  },
+  {
     "title": "Λkasha",
     "artist": "BlackY feat. Risa Yuzuki",
     "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.22",
