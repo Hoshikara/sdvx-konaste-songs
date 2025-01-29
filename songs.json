@@ -1,5 +1,795 @@
 [
   {
+    "title": "Appliqué(Vocal Remix)",
+    "artist": "nonomori feat. Nanao",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "モンスタードミノ卿"
+      }
+    ]
+  },
+  {
+    "title": "I love you even now",
+    "artist": "nana(Sevencolors)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "漂白太郎"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "漂白太郎"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "漂白太郎"
+      }
+    ]
+  },
+  {
+    "title": "Awakening Wings",
+    "artist": "伊達朱里紗",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "Imitated Visions",
+    "artist": "荒谷サトル",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "conceptual explorer"
+      }
+    ]
+  },
+  {
+    "title": "Vigor(siqlo's Hi-Tech Veats)",
+    "artist": "siqlo",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "T=I=NAKA"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "T=I=NAKA"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "T=I=NAKA"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "T=I=NAKA"
+      }
+    ]
+  },
+  {
+    "title": "おにいちゃんグリッチホップ ～eternal love remix～",
+    "artist": "HOUJIROU feat. 杠葉えりか",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "モンスタードミノ狂"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "モンスタードミノ狂"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "モンスタードミノ狂"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "モンスタードミノ狂"
+      }
+    ]
+  },
+  {
+    "title": "King's Gambit",
+    "artist": "brz1128",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "電撃ロブスター"
+      }
+    ]
+  },
+  {
+    "title": "Gate of Atlantis (Vocal ∞ Mix)",
+    "artist": "MasKaleido feat. ぁゅ",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "ここからよろしく大作戦143",
+    "artist": "BEMANI Sound Team \"あさき隊\"",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "ポテラーフMk.2"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "フルトヴァルMk.2"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "ポテラーフMk.2"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "フルトヴァルMk.2"
+      }
+    ]
+  },
+  {
+    "title": "こどもかくしのアンダーランド",
+    "artist": "iru feat. 桃寝ちのい",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "鋼のビスカッチャ"
+      }
+    ]
+  },
+  {
+    "title": "Kontrol Line",
+    "artist": "Yooh",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "The setting sun(burst)",
+    "artist": "nozakita kazumi",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "conceptual explorer"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "conceptual explorer"
+      }
+    ]
+  },
+  {
+    "title": "憧憬のファンファーレ",
+    "artist": "CHUBAY",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Akizuki Nagomu"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Akizuki Nagomu"
+      }
+    ]
+  },
+  {
+    "title": "Xinca",
+    "artist": "隣の庭は青い(庭師+Aoi)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "深化 - fractal-shoot!!"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "真化 - fractal-shoot!!"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "神化 - fractal-shoot!!"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "進化 - Fractal→∞ Strike！！"
+      }
+    ]
+  },
+  {
+    "title": "JACK -the KING Ki11ing-",
+    "artist": "打打だいず vs. siromaru",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "kamuy noko"
+      }
+    ]
+  },
+  {
+    "title": "Scarlet Pinheel -appassionato-",
+    "artist": "BlackY",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "すべてを賭して",
+    "artist": "ke-ji",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Ether99"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Ether99"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Ether99"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Ether99"
+      }
+    ]
+  },
+  {
+    "title": "Disagree Feelings",
+    "artist": "uno(IOSYS)",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "PHQUASE"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "PHQUASE"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "PHQUASE"
+      }
+    ]
+  },
+  {
+    "title": "Don't you dare play GOD",
+    "artist": "technoplanet feat. Tamako Kinoshita",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 8,
+        "name": "NOV",
+        "effector": "False GOD \"7濶ｲ 繧√◎縺｣縺ｩ\""
+      },
+      {
+        "level": 15,
+        "name": "ADV",
+        "effector": "False GOD \"7濶ｲ 繧√◎縺｣縺ｩ\""
+      },
+      {
+        "level": 18,
+        "name": "EXH",
+        "effector": "False GOD \"7濶ｲ 繧√◎縺｣縺ｩ\""
+      },
+      {
+        "level": 20,
+        "name": "MXM",
+        "effector": "False GOD \"7濶ｲ 繧√◎縺｣縺ｩ\""
+      }
+    ]
+  },
+  {
+    "title": "七七七夕",
+    "artist": "Mono. + uynet",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "kamuy noko abstract, include"
+      }
+    ]
+  },
+  {
+    "title": "灰色の空想をつかんで",
+    "artist": "じろうす",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "始まりへと続く帰り道",
+    "artist": "たちのん",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "TAKUYA"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "TAKUYA"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "TAKUYA"
+      }
+    ]
+  },
+  {
+    "title": "VALKYRIE ASSAULT",
+    "artist": "BEMANI Sound Team \"SYUNN\"",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "MAD CHILD ver.VI"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "MAD CHILD ver.VI"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "MAD CHILD ver.VI"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "MAD CHILD ver.VI"
+      }
+    ]
+  },
+  {
+    "title": "FlowerNation",
+    "artist": "ゆうゆ feat. 華",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 16,
+        "name": "MXM",
+        "effector": "フォックスロット"
+      }
+    ]
+  },
+  {
+    "title": "HEAVEN KNOWS",
+    "artist": "U-ske feat.石橋桃",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "噂のジャイアントスパーク"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "噂のジャイアントスパーク"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "噂のジャイアントスパーク"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "噂のジャイアントスパーク"
+      }
+    ]
+  },
+  {
+    "title": "Max Burning!!(GαineN Beyond yΩu Remix)",
+    "artist": "概念",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "EIVY"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "EIVY"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "EIVY"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "EIVY"
+      }
+    ]
+  },
+  {
+    "title": "ミュージックプレイヤー （J-pop Remix）",
+    "artist": "technoplanet feat. Risa Yuzuki",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "フォックスロット"
+      }
+    ]
+  },
+  {
+    "title": "You Only Live Twice",
+    "artist": "Sephid feat. aria",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "Revvable Engine",
+    "artist": "nora2r",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ロイヤルクラッカー"
+      }
+    ]
+  },
+  {
+    "title": "WobbleTangleFestival (影虎。 & ikaruga_nex's HDM RMX)",
+    "artist": "影虎。 & ikaruga_nex",
+    "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "kamuy noko"
+      }
+    ]
+  },
+  {
     "title": "I'm so happy(Happy Hoppin Remix)",
     "artist": "polysha",
     "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.23",
