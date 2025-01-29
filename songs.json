@@ -1,5 +1,780 @@
 [
   {
+    "title": "{albus}",
+    "artist": "かめりあ",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "風瑠人"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "風瑠人"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "風瑠人"
+      }
+    ]
+  },
+  {
+    "title": "Virtual Bit",
+    "artist": "KAN TAKAHIKO",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Padcontrollers"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "Padcontrollers"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "Padcontrollers"
+      }
+    ]
+  },
+  {
+    "title": "焔華",
+    "artist": "movies(moimoi×Xceon×Dai.)",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "トトリオン軍団"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "トトリオン軍団"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "トトリオン軍団"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "トトリオン軍団"
+      }
+    ]
+  },
+  {
+    "title": "Empty Backdoor",
+    "artist": "森羅万象",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "レッドコールドスクリューズ"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "ブルーコールドスクリューズ"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "ブルーコールドハリケーンズ"
+      }
+    ]
+  },
+  {
+    "title": "踊るフィーバーロボ",
+    "artist": "ダニエル&eimy と よしくん",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Megacycle"
+      }
+    ]
+  },
+  {
+    "title": "カジノファイヤーことみちゃん",
+    "artist": "ARM feat. 山本椛 + Brasscapsule",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "豪遊少年鑑定団"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "散財少年鑑定団"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "天啓少年鑑定団"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ところがどっこい鑑定団"
+      }
+    ]
+  },
+  {
+    "title": "驪駒早鬼は馬並み☆プロテイン",
+    "artist": "ARM × 狐夢想 feat.ななひら",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "サイバーマッスルガスタンク"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "サイバーマッスルガスタンク"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "サイバーマッスルガスタンク"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "サイバーマッスルガスタンク"
+      }
+    ]
+  },
+  {
+    "title": "限界突破リザレクション",
+    "artist": "まろん vs. モリモリあつし feat. ビートまりお",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "cobalt",
+    "artist": "Des-ROW・組スペシアル",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "ユカリ☆chan"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "ユカリ☆chan"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "ユカリ☆chan"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "七色Method"
+      }
+    ]
+  },
+  {
+    "title": "Shera",
+    "artist": "MYUKKE.",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "fractal-shoot starry!!"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "fractal-shoot starry!!"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "fractal-shoot starry!!"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "fractal-shoot!!"
+      }
+    ]
+  },
+  {
+    "title": "SHOCKER BREAKER",
+    "artist": "Yu_Asahina",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ロイヤルクラッカー"
+      }
+    ]
+  },
+  {
+    "title": "c2Theater",
+    "artist": "yaseta + Hidra-Xjeil",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "唐揚Brother + Ginza-Sis"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "唐揚Brother + Ginza-Sis"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "唐揚Brother + Ginza-Sis"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "唐揚Brother + Ginza-Sis"
+      }
+    ]
+  },
+  {
+    "title": "Jailbreaker",
+    "artist": "Hommarju feat. かぼちゃ",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Megacycle"
+      }
+    ]
+  },
+  {
+    "title": "STEEL NEEDLE",
+    "artist": "Scorpion",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "IIconノックオン"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "IIconノックオン"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "IIconノックオン"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "IIconノックオン"
+      }
+    ]
+  },
+  {
+    "title": "Timepiece phase Ⅱ",
+    "artist": "佐々木博史",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "～PH～ase Ⅱ"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "～PH～ase Ⅱ"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "～PH～ase Ⅱ"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "～PH～ase Ⅱ"
+      }
+    ]
+  },
+  {
+    "title": "儚キ戀ノ幻想譚",
+    "artist": "まろん feat. あやぽんず＊ (森羅万象)",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "モンスタードミノ卿"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "モンスタードミノ卿"
+      }
+    ]
+  },
+  {
+    "title": "birth",
+    "artist": "Yu_Asahina",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "フォックスロット"
+      }
+    ]
+  },
+  {
+    "title": "Paradission",
+    "artist": "BlackY",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "PHQUASE"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "PHQUASE"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "PHQUASE"
+      }
+    ]
+  },
+  {
+    "title": "BEAT MAGIC",
+    "artist": "ランコ feat. Eurobeat Union",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 16,
+        "name": "MXM",
+        "effector": "kamuy noko include"
+      }
+    ]
+  },
+  {
+    "title": "Prayer",
+    "artist": "溝口ゆうま feat. 大瀬良あい",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "おすし feat. 風瑠人"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "おすし feat. 風瑠人"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "おすし feat. 風瑠人"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "おすし feat. 風瑠人"
+      }
+    ]
+  },
+  {
+    "title": "Playing With Fire",
+    "artist": "kors k",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Hermit♣club"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "Hermit♣club"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Hermit♣club"
+      }
+    ]
+  },
+  {
+    "title": "MERRiESTxHOLiC",
+    "artist": "miko♡nachi feat.u-z",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "MaKoTo"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "MaKoTo"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "MaKoTo"
+      }
+    ]
+  },
+  {
+    "title": "禊",
+    "artist": "Nhato",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "神威之子"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "神威之子"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "神威之子"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "神威之子"
+      }
+    ]
+  },
+  {
+    "title": "ミライチューナー",
+    "artist": "U-ske feat.すずしろ",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "フォックスロット"
+      },
+      {
+        "level": 16,
+        "name": "MXM",
+        "effector": "フォックスロット"
+      }
+    ]
+  },
+  {
+    "title": "Metamorphobia",
+    "artist": "winddrums",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Megacycle"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "Megacycle"
+      }
+    ]
+  },
+  {
+    "title": "メンタンピンドラドラ",
+    "artist": "enzo + O2i3",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "CRAIG AKAGI"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "CRAIG AKAGI"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "CRAIG AKAGI"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "CRAIG AKAGI"
+      }
+    ]
+  },
+  {
+    "title": "Übertreffen",
+    "artist": "TAKA respect for J.S.B.",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Megacycle respect for M.M.M."
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Megacycle respect for M.M.M."
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Megacycle respect for M.M.M."
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Megacycle respect for M.M.M."
+      }
+    ]
+  },
+  {
+    "title": "ラキラキ",
+    "artist": "Mutsuhiko Izumi & S-C-U",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "kamuy noko"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "kamuy noko"
+      }
+    ]
+  },
+  {
+    "title": "Lisa-RICCIA",
+    "artist": "DJ YOSHITAKA",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "レッドホットスクリューズ×～PH～"
+      }
+    ]
+  },
+  {
+    "title": "恋愛＝精度×認識力",
+    "artist": "立秋 vs. BEMANI Sound Team \"L.E.D.-G\" feat.ちょこ＆ななひら",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "ビ＝フジ×ッキー"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "ビ＝フジ×ッキー"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "ビ＝フジ×ッキー"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "ビ＝フジ×ッキー"
+      }
+    ]
+  },
+  {
     "title": "Appliqué(Vocal Remix)",
     "artist": "nonomori feat. Nanao",
     "availability": "コナステ版 SOUND VOLTEX 楽曲パック vol.24",
