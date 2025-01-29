@@ -1,5 +1,113 @@
 [
   {
+    "title": "愛昧ショコラーテ",
+    "artist": "角巻わため",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "花梨 かりん"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "花梨 かりん"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "花梨 かりん"
+      },
+      {
+        "level": 16,
+        "name": "MXM",
+        "effector": "花梨 かりん"
+      }
+    ]
+  },
+  {
+    "title": "曇天羊",
+    "artist": "角巻わため",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "トトリオン軍団"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "トトリオン軍団"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "トトリオン軍団"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "トトリオン軍団"
+      }
+    ]
+  },
+  {
+    "title": "My song",
+    "artist": "角巻わため",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "倉科ロイヤ"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "倉科ロイヤ"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "倉科ロイヤ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "倉科ロイヤ×益田トリック"
+      }
+    ]
+  },
+  {
+    "title": "What an amazing swing",
+    "artist": "角巻わため",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "鋼のビスカッチャ"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "鋼のビスカッチャ"
+      }
+    ]
+  },
+  {
     "title": "Everything B.K.",
     "artist": "nora2r",
     "availability": "最初からプレーできます",
