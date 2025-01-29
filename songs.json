@@ -1,5 +1,470 @@
 [
   {
+    "title": "赤より紅い夢 -lucid dream Mix-",
+    "artist": "くるぶっこちゃん",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "Issen",
+    "artist": "tanso a.k.a. モリヤマサト",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "Hirayasu Matsudo"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "Hirayasu Matsudo"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Hirayasu Matsudo"
+      }
+    ]
+  },
+  {
+    "title": "Indomitable Spirit",
+    "artist": "Tracy feat.ほたる",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "WAVE WAVE WAVE",
+    "artist": "ZYTOKINE feat. itori",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "Hermit♣club"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "ごましおくん"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "Hermit♣club"
+      }
+    ]
+  },
+  {
+    "title": "交渉人・西行寺幽々子 vs スカーレット警察",
+    "artist": "七条レタスグループ starring nachi",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "12月4日午前、スタジオに引篭もり、制作者がクリア不可にも関わらず"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "プレーヤーにクリアを強要させるエフェクトを密造していたとして、"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "SDVXエフェクト取締法違反の容疑でエフェクターの男を逮捕しました"
+      }
+    ]
+  },
+  {
+    "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+    "artist": "SOUND HOLIC Vs. BEMANI Sound Team \"KE!JU\" feat. Nana Takahashi",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "ロイヤルクラッカー"
+      }
+    ]
+  },
+  {
+    "title": "Silver Impact",
+    "artist": "Arch",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "MaKoTo"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "MaKoTo"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "MaKoTo"
+      }
+    ]
+  },
+  {
+    "title": "ジャンピン・スマイル",
+    "artist": "梅干茶漬け",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "ごましおくん"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "ごましおくん"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "ごましおくん"
+      }
+    ]
+  },
+  {
+    "title": "SUPER HEROINE!!",
+    "artist": "Amateras Records vs BEMANI Sound Team \"TATSUYA\" feat. miko",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "Struggle",
+    "artist": "Masayoshi Minoshima(ALR)",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "漂白太郎"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "漂白太郎"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "漂白太郎"
+      }
+    ]
+  },
+  {
+    "title": "Spice Road",
+    "artist": "C-CLAYS feat.小峠舞",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "ひとくちピエロ"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "ひとくちピエロ"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "ひとくちピエロ"
+      }
+    ]
+  },
+  {
+    "title": "千年ノ理",
+    "artist": "猫叉Master",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "恵方真紀"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "恵方真紀"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "恵方真紀"
+      }
+    ]
+  },
+  {
+    "title": "Darkness Pleasure",
+    "artist": "Hull feat.℃iel",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "MAD CHILD"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "MAD CHILD"
+      }
+    ]
+  },
+  {
+    "title": "弾幕信仰",
+    "artist": "豚乙女×BEMANI Sound Team \"PON\"",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "電撃ロブスター"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "電撃ロブスター"
+      }
+    ]
+  },
+  {
+    "title": "取り残された美術(Arranged:HiZuMi)",
+    "artist": "幽閉サテライト feat. senya",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "東京ブルトゥーム"
+      },
+      {
+        "level": 7,
+        "name": "ADV",
+        "effector": "東京ブルトゥーム"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "東京ブルトゥーム"
+      }
+    ]
+  },
+  {
+    "title": "NEXT BILLIONAIRE",
+    "artist": "SOUND HOLIC feat. Nana Takahashi",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "PHQUASE"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "PHQUASE"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "PHQUASE"
+      }
+    ]
+  },
+  {
+    "title": "Fabula Nova",
+    "artist": "unatra",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "Law of cosines vs. TAKUYA"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "Law of cosines vs. TAKUYA"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Law of cosines vs. TAKUYA"
+      }
+    ]
+  },
+  {
+    "title": "Blue Fire",
+    "artist": "REDALiCE feat. 野宮あゆみ",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 8,
+        "name": "ADV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 12,
+        "name": "EXH",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 16,
+        "name": "MXM",
+        "effector": "レッドホットスクリューズ"
+      }
+    ]
+  },
+  {
+    "title": "閉塞的フレーション",
+    "artist": "Pizuya's Cell VS BEMANI Sound Team \"dj TAKA\"",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "Ginza sis"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "ZANGI Bros."
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "ZANGI Bros. VS Ginza sis"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Ginza sis VS ZANGI Bros."
+      }
+    ]
+  },
+  {
+    "title": "夕立、君と隠れ処",
+    "artist": "幽閉サテライト (Arranged:Iceon) feat. senya",
+    "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "ユカリ☆chan"
+      },
+      {
+        "level": 9,
+        "name": "ADV",
+        "effector": "ユカリ☆chan"
+      },
+      {
+        "level": 13,
+        "name": "EXH",
+        "effector": "ユカリ☆chan"
+      }
+    ]
+  },
+  {
     "title": "{albus}",
     "artist": "かめりあ",
     "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.2",
