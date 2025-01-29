@@ -1,5 +1,248 @@
 [
   {
+    "title": "Everything B.K.",
+    "artist": "nora2r",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "Everything B.J."
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Everything B.J."
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Everything B.J."
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Everything B.J."
+      }
+    ]
+  },
+  {
+    "title": "B.B.K.K.B.K.K. (USAO Remix)",
+    "artist": "nora2r Remixed by USAO",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "B.B.K.K.B.K.K. (影虎。 & siqlo PsyRemix)",
+    "artist": "nora2r Remixed by 影虎。 & siqlo",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "K.K.F.F.K.F.F."
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "K.K.M.M.K.M.M."
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "K.K.S.S.K.S.S."
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "K.K.B.B.K.B.B."
+      }
+    ]
+  },
+  {
+    "title": "I'm Your Treasure Box ＊あなたは マリンせんちょうを たからばこからみつけた。",
+    "artist": "宝鐘マリン",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "cosMo＠暴走P"
+      },
+      {
+        "level": 10,
+        "name": "ADV",
+        "effector": "cosMo＠暴走P"
+      },
+      {
+        "level": 14,
+        "name": "EXH",
+        "effector": "cosMo＠暴走P"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "cosMo＠暴走P"
+      }
+    ]
+  },
+  {
+    "title": "Ahoy!! 我ら宝鐘海賊団☆",
+    "artist": "宝鐘マリン",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "A～PH～oy!!"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "A～PH～oy!!"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "A～PH～oy!!"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "A～PH～oy!!"
+      }
+    ]
+  },
+  {
+    "title": "美少女無罪♡パイレーツ",
+    "artist": "宝鐘マリン",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 2,
+        "name": "NOV",
+        "effector": "唐揚シス"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "唐揚シス"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "唐揚シス"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "唐揚シス"
+      }
+    ]
+  },
+  {
+    "title": "幽霊船戦",
+    "artist": "宝鐘マリン",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "花梨かりん"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "花梨かりん"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "花梨かりん"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "花梨かりん"
+      }
+    ]
+  },
+  {
+    "title": "Halloween Is Chaos",
+    "artist": "RoughSketch feat.北小路ヒスイ",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "おすし仮面♣"
+      },
+      {
+        "level": 11,
+        "name": "ADV",
+        "effector": "おすし仮面♣"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "おすし仮面♣"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "おすし仮面♣"
+      }
+    ]
+  },
+  {
+    "title": "Blossom",
+    "artist": "Synthion",
+    "availability": "最初からプレーできます",
+    "diffs": [
+      {
+        "level": 5,
+        "name": "NOV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "ロイヤルクラッカー"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ロイヤルクラッカー"
+      }
+    ]
+  },
+  {
     "title": "赤より紅い夢 -lucid dream Mix-",
     "artist": "くるぶっこちゃん",
     "availability": "コナステ版 SOUND VOLTEX 東方Projectセレクション 楽曲パック",
