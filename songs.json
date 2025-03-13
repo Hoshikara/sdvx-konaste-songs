@@ -1,5 +1,275 @@
 [
   {
+    "title": "Ambivalent Vermilia",
+    "artist": "BEMANI Sound Team \"二代目朱雀 feat.朱雀\"",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "朱ホットテンペスト"
+      }
+    ]
+  },
+  {
+    "title": "suspicions",
+    "artist": "BEMANI Sound Team \"猫叉Master VS dj TAKA\"",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "TEK-A-RHYTHM"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "TEK-A-RHYTHM"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "TEK-A-RHYTHM"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "TEK-A-RHYTHM"
+      }
+    ]
+  },
+  {
+    "title": "THE PEERLESS UNDER HEAVEN",
+    "artist": "Yuta Imai Vs. BEMANI Sound Team \"L.E.D.-G\"",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "ステファンビート"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "ステファンビート"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "ステファンビート"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "ステファンビート"
+      }
+    ]
+  },
+  {
+    "title": "stellar rain",
+    "artist": "BEMANI Sound Team \"PHQUASE\"",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "止まない～PH～はない"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "止まない～PH～はない"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "止まない～PH～はない"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "止まない～PH～はない"
+      }
+    ]
+  },
+  {
+    "title": "chaplet",
+    "artist": "DJ TOTTO",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "fRUNctal-shoot!!"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "fRUNctal-shoot!!"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "fRUNctal-shoot!!"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "fRUNctal-shoot!!"
+      }
+    ]
+  },
+  {
+    "title": "ちょえちょえまぎか",
+    "artist": "Pizuya's Cell",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 4,
+        "name": "NOV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Hananashi Karin"
+      },
+      {
+        "level": 17,
+        "name": "MXM",
+        "effector": "Hananashi Karin"
+      }
+    ]
+  },
+  {
+    "title": "Deep tenDon Reflex",
+    "artist": "BEMANI Sound Team \"Coyaan\"",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "fryctal-shoot!!"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "fryctal-shoot!!"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "fryctal-shoot!!"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "fryctal-shoot!! respects BEMANI Sound Team \"Coyaan\""
+      }
+    ]
+  },
+  {
+    "title": "パーフェクトイーター",
+    "artist": "BEMANI Sound Team \"PON\" feat.かなたん",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 3,
+        "name": "NOV",
+        "effector": "Ether99"
+      },
+      {
+        "level": 12,
+        "name": "ADV",
+        "effector": "Ether99"
+      },
+      {
+        "level": 15,
+        "name": "EXH",
+        "effector": "Ether99"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "Ether99"
+      }
+    ]
+  },
+  {
+    "title": "Plan 8",
+    "artist": "Ryu☆",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 7,
+        "name": "NOV",
+        "effector": "赤色Method -tricoro RED ver-"
+      },
+      {
+        "level": 14,
+        "name": "ADV",
+        "effector": "赤色Method -tricoro RED ver-"
+      },
+      {
+        "level": 17,
+        "name": "EXH",
+        "effector": "赤色Method -tricoro RED ver-"
+      },
+      {
+        "level": 19,
+        "name": "MXM",
+        "effector": "赤色Method -tricoro RED ver-"
+      }
+    ]
+  },
+  {
+    "title": "waxing and wanding",
+    "artist": "青龍",
+    "availability": "コナステ版 SOUND VOLTEX BEMANI セレクション 楽曲パック vol.3",
+    "diffs": [
+      {
+        "level": 6,
+        "name": "NOV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 13,
+        "name": "ADV",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 16,
+        "name": "EXH",
+        "effector": "レッドホットスクリューズ"
+      },
+      {
+        "level": 18,
+        "name": "MXM",
+        "effector": "レッドホットスクリューズ"
+      }
+    ]
+  },
+  {
     "title": "愛昧ショコラーテ",
     "artist": "角巻わため",
     "availability": "最初からプレーできます",
