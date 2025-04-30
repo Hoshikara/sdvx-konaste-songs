@@ -2,4 +2,4 @@
 
 [Official song list](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)
 
-Last scraped on **March 26, 2025**.
+Last scraped on **April 30, 2025**.
